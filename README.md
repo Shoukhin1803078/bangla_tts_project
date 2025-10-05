@@ -13,10 +13,9 @@
 - HuggingFace Transformers integration
 - Trade-off: Limited voice cloning vs XTTS
 
-**Why Not XTTS:**
+**I am Not choosing XTTS Because:**
 - Dependency conflicts with Python 3.12
 - Coqui-TTS package installation failures
-- Would require environment downgrade
 
 ---
 
