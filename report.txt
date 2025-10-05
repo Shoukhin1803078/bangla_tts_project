@@ -1,0 +1,8 @@
+
+BANGLADESHI BANGLA TTS
+==================================================
+Dataset: 23 samples (18 train, 5 val)
+Model: Facebook MMS-TTS Bengali
+Device: cpu
+Files: baseline.wav, test_output.wav, train.csv, val.csv
+Status: Complete ✓
