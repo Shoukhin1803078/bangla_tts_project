@@ -27,6 +27,7 @@
 - **Duration:** 2-8 seconds
 - **Sample Rate:** 16,000 Hz
 - **Valid Rate:** 96% (48/50 passed)
+<img width="1000" height="400" alt="duration_dist" src="https://github.com/user-attachments/assets/5f66d285-6ee9-4dc2-926c-ac9d5b3c2a8e" />
 
 
 ### Preprocessing Pipeline
@@ -72,6 +73,7 @@ Raw Audio → Duration Filter (2-8s) → Resample (16kHz) → Mono Conversion �
 | MFCC Variance | 0.45 | 0.40-0.60 | Good |
 | Duration Accuracy | ±8% | ±15% | Excellent |
 | Valid Samples | 48/50 | >40/50 | 96% |
+<img width="1200" height="600" alt="mfcc" src="https://github.com/user-attachments/assets/fb5267cb-7e8d-4ba2-85f5-2ae63d85b37a" />
 
 ### Qualitative
 
